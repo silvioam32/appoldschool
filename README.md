@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">
-  Api Rest Python com Flask
+  Meu primeiro APP em JAVASCRIPT
 </h3>
 <a href="https://imgur.com/YWBL0Ae"><img src="https://i.imgur.com/YWBL0Ae.png" title="source: imgur.com" /></a>
 
