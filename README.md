@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">
-  Api Rest Python com Flask
+  App Barbearia Old School
 </h3>
 <a href="https://imgur.com/8ttXwKe"><img src="https://i.imgur.com/8ttXwKe.png" title="source: imgur.com" /></a>
 
