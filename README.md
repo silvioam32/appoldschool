@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  É um projeto de Barbearia sendo pra melhoria e agendimento ao cliente.
+  Atualização, inserindo um contador, aguardem mais evolução.
 </h3>
 
 <h1 align="center">
@@ -17,9 +17,9 @@
 </p>
 
 <h3 align="left">
-  App Barbearia Old School
+  Java Script, Primeiro projeto funcional
 </h3>
-<a href="https://imgur.com/8ttXwKe"><img src="https://i.imgur.com/8ttXwKe.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/avEaKrD"><img src="https://i.imgur.com/avEaKrD.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
